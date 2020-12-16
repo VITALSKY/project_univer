@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(181): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(209): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(226): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(270): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(294): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(376): warning C4804: <: небезопасное использование типа "bool" в операции
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(390): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(561): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владелец\desktop\nngu\3 курс\алгоритмы\итоговая10\project75\source.cpp(586): warning C4018: <: несоответствие типов со знаком и без знака
+  Project75.vcxproj -> C:\Users\Владелец\Desktop\NNGU\3 курс\Алгоритмы\ИТОГОВАЯ10\Debug\Project75.exe
